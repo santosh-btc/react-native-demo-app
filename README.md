@@ -1,2 +1,2 @@
-# HPS-ReactNative
-HyperSoft-ReactNative app
+# React Native Demo App
+Leave Management System
