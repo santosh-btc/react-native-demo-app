@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "592044762157",
+    "firebase_url": "https://hpsreactnative-6cba0.firebaseio.com",
+    "project_id": "hpsreactnative-6cba0",
+    "storage_bucket": "hpsreactnative-6cba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592044762157:android:27906503a2f94163",
+        "android_client_info": {
+          "package_name": "com.hpsreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592044762157-r2r3b019k246ontiojnoe7o3ncl0tqsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIutivr-SgEba62fa3or82r3a0O09bQ-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
